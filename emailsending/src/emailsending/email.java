@@ -15,9 +15,9 @@ import javax.mail.internet.MimeMessage;
 	
 	    public static void main(String[] args) {
 	        // Sender and receiver email
-	        final String fromEmail = "kapidarsha431@gmail.com";  // Replace with your email
+	        final String fromEmail = "from@gmail.com";  // Replace with your email
 	        final String password = "zgdi xvmw ttma eguv";        // Use App Password if using Gmail
-	        String toEmail = "darsa3110@gmail.com";            // Replace with receiver email
+	        String toEmail = "to@gmail.com";            // Replace with receiver email
 
 	        // Set SMTP properties
 	        Properties props = new Properties();
